@@ -1,6 +1,6 @@
 # Desafio Front-end Mentor: Product preview card component.
 
-Projeto feito sozinho, colocando em prática meus conhecimentos de HTML, CSS e SASS.
+Projeto feito sozinho, colocando em prática meus conhecimentos de HTML, CSS e <strong> SASS </strong>.
 
 Feito com <em>Flexbox</em>.
 
@@ -22,7 +22,7 @@ Desktop design:            | Mobile design:
   
   <br><br>
 
-  <a href = ""> Veja o projeto aqui. </a>
+  <a href = "https://guilherme-goncalves-de-souza.github.io/Desafio_Front-end_Mentor.Product-preview-card-component/"> Veja o projeto aqui. </a>
 </div>
 
 
